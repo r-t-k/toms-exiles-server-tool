@@ -1,0 +1,3 @@
+([('exiles_tool',
+   '/Users/tommykyser/Projects/python/exile-tool/toms-exiles-server-tool/build/exiles_tool/exiles_tool',
+   'EXECUTABLE')],)
