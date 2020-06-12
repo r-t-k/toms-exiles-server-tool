@@ -4,8 +4,8 @@ import platform
 block_cipher = None
 
 added_files = [
-         ( '/Users/tommykyser/Projects/python/exile-tool/toms-exiles-server-tool/resources/chromedriver_83', '.' ),
-         ( '/Users/tommykyser/Projects/python/exile-tool/toms-exiles-server-tool/resources/chromedriver_83_win.exe', '.' )
+         ( 'C:/Users/Tommy/Documents/GitHub/toms-exiles-server-tool/chromedriver_83', '.' ),
+         ( 'C:/Users/Tommy/Documents/GitHub/toms-exiles-server-tool/chromedriver_83_win.exe', '.' )
          ]
 
 a = Analysis(['main.py'],

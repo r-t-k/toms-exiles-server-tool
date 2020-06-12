@@ -6,7 +6,7 @@ import gportal
 def app():
     def restart_buffer():
         rcon.warn_players()
-        time.sleep(30)
+        time.sleep(3)
 
 
     sg.ChangeLookAndFeel('System Default 1')
